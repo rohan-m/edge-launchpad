@@ -14,5 +14,6 @@
   "solutions.api.baasApp": "./adapters/subresources/baasApp.js",
   "solutions.api.util": "./adapters/subresources/util.js",
   "solutions.api.kvm": "./adapters/subresources/kvm.js",
+  "solutions.api.report": "./adapters/subresources/report.js",
   "solutions.api.sharedFlow": "./adapters/subresources/sharedFlow.js"
 }
